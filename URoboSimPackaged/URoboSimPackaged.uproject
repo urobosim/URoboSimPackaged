@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{00046EE6-08D6-8137-7D22-3408505DA21A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "URoboSimPacked",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
