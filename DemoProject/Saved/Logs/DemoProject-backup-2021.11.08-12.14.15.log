@@ -1,0 +1,1131 @@
+﻿Log file open, 11/08/21 13:14:07
+LogPlatformFile: Using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 17 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.028209
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin UROSWorldControl
+LogPluginManager: Mounting plugin UUtils
+LogPluginManager: Mounting plugin URoboVision
+LogPluginManager: Mounting plugin UTFPublisher
+LogPluginManager: Mounting plugin URoboSim
+LogPluginManager: Mounting plugin UROSBridge
+LogInit: Using libcurl 7.65.3-DEV
+LogInit:  - built for x86_64-unknown-linux-gnu
+LogInit:  - supports SSL with OpenSSL/1.1.1c
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_TLSAUTH_SRP
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-0
+LogInit: Engine Version: 4.25.4-0+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-0+++UE4+Release-4.25
+LogInit: Net CL: 0
+LogInit: OS: GenericOSVersionLabel (GenericOSSubVersionLabel), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: GenericGPUBrand
+LogInit: Compiled (64-bit): Nov  8 2021 13:03:10
+LogInit: Compiled with Clang: 9.0.1 
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: /home/mneumann/work/development/URoboSimPacked/DemoProject/Binaries/Linux/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Engine.ini]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:0]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Engine.ini]
+[2021.11.08-12.14.07:544][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Engine.ini]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Engine.ini]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.08-12.14.07:544][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Engine.ini]
+[2021.11.08-12.14.07:544][  0]LogInit: Initializing SDL.
+[2021.11.08-12.14.07:994][  0]LogInit: Initialized SDL 2.0.10 revision: 12952 (hg-12952:bc90ce38f1e2) (compiled against 2.0.10)
+[2021.11.08-12.14.07:994][  0]LogInit: Using SDL video driver 'x11'
+[2021.11.08-12.14.08:040][  0]LogInit: Display metrics:
+[2021.11.08-12.14.08:040][  0]LogInit:   PrimaryDisplayWidth: 1920
+[2021.11.08-12.14.08:040][  0]LogInit:   PrimaryDisplayHeight: 1200
+[2021.11.08-12.14.08:040][  0]LogInit:   PrimaryDisplayWorkAreaRect:
+[2021.11.08-12.14.08:040][  0]LogInit:     Left=67, Top=27, Right=1920, Bottom=1200
+[2021.11.08-12.14.08:040][  0]LogInit:   VirtualDisplayRect:
+[2021.11.08-12.14.08:040][  0]LogInit:     Left=67, Top=0, Right=3840, Bottom=1200
+[2021.11.08-12.14.08:040][  0]LogInit:   TitleSafePaddingSize: X=0.000 Y=0.000 Z=0.000 W=0.000
+[2021.11.08-12.14.08:040][  0]LogInit:   ActionSafePaddingSize: X=0.000 Y=0.000 Z=0.000 W=0.000
+[2021.11.08-12.14.08:040][  0]LogInit:   Number of monitors: 2
+[2021.11.08-12.14.08:040][  0]LogInit:     Monitor 0
+[2021.11.08-12.14.08:040][  0]LogInit:       Name: BenQ BL2411 24"
+[2021.11.08-12.14.08:040][  0]LogInit:       ID: display0
+[2021.11.08-12.14.08:040][  0]LogInit:       NativeWidth: 1920
+[2021.11.08-12.14.08:040][  0]LogInit:       NativeHeight: 1200
+[2021.11.08-12.14.08:040][  0]LogInit:       bIsPrimary: true
+[2021.11.08-12.14.08:040][  0]LogInit:     Monitor 1
+[2021.11.08-12.14.08:040][  0]LogInit:       Name: EV2316W 23"
+[2021.11.08-12.14.08:040][  0]LogInit:       ID: display1
+[2021.11.08-12.14.08:040][  0]LogInit:       NativeWidth: 1920
+[2021.11.08-12.14.08:040][  0]LogInit:       NativeHeight: 1080
+[2021.11.08-12.14.08:040][  0]LogInit:       bIsPrimary: false
+[2021.11.08-12.14.08:040][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Scalability.ini]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Scalability.ini]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Scalability.ini]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Scalability.ini]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.08-12.14.08:040][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Scalability.ini]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Scalability.ini]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Scalability.ini]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Scalability.ini]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.11.08-12.14.08:041][  0]LogLinux: Selected Device Profile: [LinuxNoEditor]
+[2021.11.08-12.14.08:041][  0]LogInit: Applying CVar settings loaded from the selected device profile: [LinuxNoEditor]
+[2021.11.08-12.14.08:041][  0]LogHAL: Display: Platform has ~ 4 GB [33643147264 / 4294967296 / 32], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.08-12.14.08:041][  0]LogInit: Going up to parent DeviceProfile [Linux]
+[2021.11.08-12.14.08:041][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.08-12.14.08:041][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Scalability.ini]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Scalability.ini]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Scalability.ini]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.08-12.14.08:041][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Scalability.ini]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Scalability.ini]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Scalability.ini]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Scalability.ini]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Scalability.ini]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.11.08-12.14.08:042][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.08-12.14.08:042][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.08-12.14.08:043][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.08-12.14.08:043][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.08-12.14.08:043][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../DemoProject/Saved/Config/LinuxNoEditor/Engine.ini]
+[2021.11.08-12.14.08:043][  0]LogConfig: Setting CVar [[g.TimeoutForBlockOnRenderFence:60000]]
+[2021.11.08-12.14.08:043][  0]LogInit: Unix hardware info:
+[2021.11.08-12.14.08:043][  0]LogInit:  - we are the first instance of this executable
+[2021.11.08-12.14.08:043][  0]LogInit:  - this process' id (pid) is 10050, parent process' id (ppid) is 10043
+[2021.11.08-12.14.08:043][  0]LogInit:  - we are not running under debugger
+[2021.11.08-12.14.08:043][  0]LogInit:  - machine network name is 'ai0000f'
+[2021.11.08-12.14.08:043][  0]LogInit:  - user name is 'mneumann' (mneumann)
+[2021.11.08-12.14.08:043][  0]LogInit:  - we're logged in locally
+[2021.11.08-12.14.08:043][  0]LogInit:  - we're running with rendering
+[2021.11.08-12.14.08:043][  0]LogInit:  - CPU: GenuineIntel 'Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz' (signature: 0x906EA)
+[2021.11.08-12.14.08:043][  0]LogInit:  - Number of physical cores available for the process: 6
+[2021.11.08-12.14.08:043][  0]LogInit:  - Number of logical cores available for the process: 12
+[2021.11.08-12.14.08:043][  0]LogInit:  - Cache line size: 64
+[2021.11.08-12.14.08:043][  0]LogInit:  - Memory allocator used: binned2
+[2021.11.08-12.14.08:043][  0]LogInit:  - This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+[2021.11.08-12.14.08:043][  0]LogInit:  - This is an internal build.
+[2021.11.08-12.14.08:043][  0]LogCore: Benchmarking clocks:
+[2021.11.08-12.14.08:043][  0]LogCore:  - CLOCK_MONOTONIC (id=1) can sustain 60289700 (60290K, 60M) calls per second without zero deltas.
+[2021.11.08-12.14.08:043][  0]LogCore:  - CLOCK_MONOTONIC_RAW (id=4) can sustain 2570324 (2570K, 3M) calls per second without zero deltas.
+[2021.11.08-12.14.08:043][  0]LogCore:  - CLOCK_MONOTONIC_COARSE (id=6) can sustain 164925867 (164926K, 165M) calls per second with 99.999843% zero deltas.
+[2021.11.08-12.14.08:043][  0]LogCore: Selected clock_id 1 (CLOCK_MONOTONIC) since it is the fastest support clock without zero deltas.
+[2021.11.08-12.14.08:043][  0]LogInit: Unix-specific commandline switches:
+[2021.11.08-12.14.08:043][  0]LogInit:  -ansimalloc - use malloc()/free() from libc (useful for tools like valgrind and electric fence)
+[2021.11.08-12.14.08:043][  0]LogInit:  -jemalloc - use jemalloc for all memory allocation
+[2021.11.08-12.14.08:043][  0]LogInit:  -binnedmalloc - use binned malloc  for all memory allocation
+[2021.11.08-12.14.08:043][  0]LogInit:  -filemapcachesize=NUMBER - set the size for case-sensitive file mapping cache
+[2021.11.08-12.14.08:043][  0]LogInit:  -useksm - uses kernel same-page mapping (KSM) for mapped memory (OFF)
+[2021.11.08-12.14.08:043][  0]LogInit:  -ksmmergeall - marks all mmap'd memory pages suitable for KSM (OFF)
+[2021.11.08-12.14.08:043][  0]LogInit:  -preloadmodulesymbols - Loads the main module symbols file into memory (OFF)
+[2021.11.08-12.14.08:043][  0]LogInit:  -sigdfl=SIGNAL - Allows a specific signal to be set to its default handler rather then ignoring the signal
+[2021.11.08-12.14.08:043][  0]LogInit:  -httpproxy=ADDRESS:PORT - redirects HTTP requests to a proxy (only supported if compiled with libcurl)
+[2021.11.08-12.14.08:043][  0]LogInit:  -reuseconn - allow libcurl to reuse HTTP connections (only matters if compiled with libcurl)
+[2021.11.08-12.14.08:043][  0]LogInit:  -virtmemkb=NUMBER - sets process virtual memory (address space) limit (overrides VirtualMemoryLimitInKB value from .ini)
+[2021.11.08-12.14.08:043][  0]LogInit:  - Physical RAM available (not considering process quota): 32 GB (32084 MB, 32854636 KB, 33643147264 bytes)
+[2021.11.08-12.14.08:043][  0]LogInit:  - VirtualMemoryAllocator pools will grow at scale 1.4
+[2021.11.08-12.14.08:043][  0]LogInit:  - MemoryRangeDecommit() will be a no-op (re-run with -vmapoolevict to change)
+[2021.11.08-12.14.08:050][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.08-12.14.08:050][  0]LogInit: Using OS detected language (en-US).
+[2021.11.08-12.14.08:050][  0]LogInit: Using OS detected locale (en-US).
+[2021.11.08-12.14.08:050][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.11.08-12.14.08:056][  0]LogHAL: Warning: Splash screen image not found.
+[2021.11.08-12.14.08:060][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.08-12.14.08:060][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.08-12.14.08:063][  0]LogInit: Using SDL_WINDOW_VULKAN
+[2021.11.08-12.14.08:096][  0]LogVulkanRHI: Display: - Found instance layer VK_LAYER_LUNARG_standard_validation
+[2021.11.08-12.14.08:096][  0]LogVulkanRHI: Display: - Found instance layer VK_LAYER_NV_optimus
+[2021.11.08-12.14.08:096][  0]LogVulkanRHI: Display: - Found instance extension VK_EXT_acquire_xlib_display
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: - Found instance extension VK_EXT_debug_report
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: - Found instance extension VK_EXT_debug_utils
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: - Found instance extension VK_EXT_direct_mode_display
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: - Found instance extension VK_EXT_display_surface_counter
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_device_group_creation
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_display
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_external_fence_capabilities
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_external_memory_capabilities
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_external_semaphore_capabilities
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_get_display_properties2
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_get_physical_device_properties2
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_get_surface_capabilities2
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_surface
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_surface_protected_capabilities
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_wayland_surface
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_xcb_surface
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_xlib_surface
+[2021.11.08-12.14.08:097][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: Not using instance layers
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: Using instance extensions
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: * VK_KHR_surface
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: * VK_KHR_xlib_surface
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: * VK_KHR_external_memory_capabilities
+[2021.11.08-12.14.08:097][  0]LogVulkanRHI: Display: * VK_KHR_get_physical_device_properties2
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: Found 1 device(s)
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: Device 0: GeForce GTX 1070 Ti
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: - API 1.2.155(0x40209b) Driver 0x7316c0c0 VendorId 0x10de
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: - DeviceID 0x1b82 Type Discrete GPU
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: - Max Descriptor Sets Bound 32 Timestamps 1
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_4444_formats
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_blend_operation_advanced
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_buffer_device_address
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_calibrated_timestamps
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_conditional_rendering
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_conservative_rasterization
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_custom_border_color
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_depth_clip_enable
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_depth_range_unrestricted
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_descriptor_indexing
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_discard_rectangles
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_display_control
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_extended_dynamic_state
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_external_memory_host
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_fragment_shader_interlock
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_global_priority
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_host_query_reset
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_image_robustness
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_index_type_uint8
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_inline_uniform_block
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_line_rasterization
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_memory_budget
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_pci_bus_info
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_pipeline_creation_cache_control
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_pipeline_creation_feedback
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_post_depth_coverage
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_private_data
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_robustness2
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_sample_locations
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_sampler_filter_minmax
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_scalar_block_layout
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_separate_stencil_usage
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_atomic_float
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_demote_to_helper_invocation
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_image_atomic_int64
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_subgroup_ballot
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_subgroup_vote
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_viewport_index_layer
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_subgroup_size_control
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_texel_buffer_alignment
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_tooling_info
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_transform_feedback
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_vertex_attribute_divisor
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_ycbcr_image_arrays
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_16bit_storage
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_8bit_storage
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_acceleration_structure
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_bind_memory2
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_buffer_device_address
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_copy_commands2
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_create_renderpass2
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_dedicated_allocation
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_deferred_host_operations
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_depth_stencil_resolve
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_descriptor_update_template
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_device_group
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_draw_indirect_count
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_driver_properties
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_fence
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_fence_fd
+[2021.11.08-12.14.08:102][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_memory
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_memory_fd
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_semaphore
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_semaphore_fd
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_get_memory_requirements2
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_image_format_list
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_imageless_framebuffer
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance1
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance2
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance3
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_multiview
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_pipeline_executable_properties
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_pipeline_library
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_push_descriptor
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_ray_tracing_pipeline
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_relaxed_block_layout
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_sampler_mirror_clamp_to_edge
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_sampler_ycbcr_conversion
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_separate_depth_stencil_layouts
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_atomic_int64
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_clock
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_draw_parameters
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_float16_int8
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_float_controls
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_non_semantic_info
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_subgroup_extended_types
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_terminate_invocation
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_spirv_1_4
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_storage_buffer_storage_class
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_swapchain
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_swapchain_mutable_format
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_timeline_semaphore
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_uniform_buffer_standard_layout
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_variable_pointers
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_vulkan_memory_model
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_clip_space_w_scaling
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_coverage_reduction_mode
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_dedicated_allocation
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_dedicated_allocation_image_aliasing
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_device_diagnostic_checkpoints
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_device_diagnostics_config
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_device_generated_commands
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_fill_rectangle
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_fragment_coverage_to_color
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_framebuffer_mixed_samples
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_geometry_shader_passthrough
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_ray_tracing
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_sample_mask_override_coverage
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_shader_sm_builtins
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_shader_subgroup_partitioned
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_viewport_array2
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_viewport_swizzle
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: -    Found device extension VK_NVX_multiview_per_view_attributes
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: Using Device 0: Geometry 1 Tessellation 1
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: Found 3 Queue Families
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: Initializing Queue Family 0: 16 queues Gfx Compute Xfer Sparse
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: Initializing Queue Family 1: 2 queues Xfer Sparse
+[2021.11.08-12.14.08:103][  0]LogVulkanRHI: Display: Skipping unnecessary Queue Family 2: 8 queues Compute Xfer Sparse
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: Using device layers
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: Using device extensions
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: * VK_KHR_swapchain
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: * VK_KHR_maintenance1
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: * VK_KHR_maintenance2
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: 3 Device Memory Heaps; Max memory allocations -1
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: 0: Flags 0x1 Size 8589934592 (8192.00 MB) GPU
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: 1: Flags 0x0 Size 25232360448 (24063.45 MB) 
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: 2: Flags 0x1 Size 257949696 (246.00 MB) GPU
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: 11 Device Memory Types (Not unified)
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: 0: Flags 0x0 Heap 1 
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: 1: Flags 0x0 Heap 1 
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: 2: Flags 0x0 Heap 1 
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: 3: Flags 0x0 Heap 1 
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: 4: Flags 0x0 Heap 1 
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: 5: Flags 0x0 Heap 1 
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: 6: Flags 0x0 Heap 1 
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: 7: Flags 0x1 Heap 0  Local
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: 8: Flags 0x6 Heap 1  HostVisible HostCoherent
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: 9: Flags 0xe Heap 1  HostVisible HostCoherent HostCached
+[2021.11.08-12.14.08:305][  0]LogVulkanRHI: Display: 10: Flags 0x7 Heap 2  Local HostVisible HostCoherent
+[2021.11.08-12.14.08:398][  0]LogVulkanRHI: Display: FVulkanPipelineStateCacheManager: Binary pipeline cache '../../../DemoProject/Saved/VulkanPSO.cache.10de.1b82' not found.
+[2021.11.08-12.14.08:404][  0]LogVulkanRHI: Display: Nvidia User Driver Version = 460.91
+[2021.11.08-12.14.08:409][  0]LogRHI: Texture pool is 5611 MB (70% of 8016 MB)
+[2021.11.08-12.14.08:436][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.08-12.14.08:436][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.08-12.14.08:457][  0]LogInit: Using OS detected language (en-US).
+[2021.11.08-12.14.08:457][  0]LogInit: Using OS detected locale (en-US).
+[2021.11.08-12.14.08:457][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2021.11.08-12.14.08:457][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2021.11.08-12.14.08:457][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.11.08-12.14.08:457][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.11.08-12.14.08:458][  0]LogTextLocalizationManager: Compacting localization data took   0.68ms
+[2021.11.08-12.14.08:463][  0]LogAssetRegistry: FAssetRegistry took 0.0047 seconds to start up
+[2021.11.08-12.14.08:501][  0]LogStreaming: Display: Flushing async loaders.
+[2021.11.08-12.14.08:501][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 0.000037 seconds
+[2021.11.08-12.14.08:503][  0]LogLinux: Selected Device Profile: [LinuxNoEditor]
+[2021.11.08-12.14.08:506][  0]LogNetVersion: DemoProject 1.0.0, NetCL: 0, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3769630957)
+[2021.11.08-12.14.08:533][  0]URoboVisionLog: Display: [ARGBDCamera][97] Loading materials.
+[2021.11.08-12.14.08:540][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.08-12.14.08:540][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.08-12.14.08:559][  0]LogAISub: UAISubsystem AISubsystem (0x7f1c58dd68c0), frame # 0
+[2021.11.08-12.14.08:559][  0]LogAISub: UAISubsystem AIPerceptionSystem (0x7f1c58c94e80), frame # 0
+[2021.11.08-12.14.08:560][  0]LogAISub: UAISubsystem EnvQueryManager (0x7f1c593f1200), frame # 0
+[2021.11.08-12.14.08:563][  0]LogMoviePlayer: Initializing movie player
+[2021.11.08-12.14.08:657][  0]LogVulkanRHI: Display: Requested PixelFormat 18 not supported by this swapchain! Falling back to supported swapchain format...
+[2021.11.08-12.14.08:657][  0]LogVulkanRHI: Display: Queue Family 0: Supports Present
+[2021.11.08-12.14.08:657][  0]LogVulkanRHI: Display: Queue Family 0: Supports Present
+[2021.11.08-12.14.08:657][  0]LogVulkanRHI: Display: Found 3 Surface present modes:
+[2021.11.08-12.14.08:657][  0]LogVulkanRHI: Display: - VK_PRESENT_MODE_FIFO_KHR (2)
+[2021.11.08-12.14.08:657][  0]LogVulkanRHI: Display: - VK_PRESENT_MODE_FIFO_RELAXED_KHR (3)
+[2021.11.08-12.14.08:657][  0]LogVulkanRHI: Display: - VK_PRESENT_MODE_IMMEDIATE_KHR (0)
+[2021.11.08-12.14.08:657][  0]LogVulkanRHI: Display: Selected VkPresentModeKHR mode 2
+[2021.11.08-12.14.08:657][  0]LogVulkanRHI: Creating new VK swapchain with present mode 2, format 44, color space 0, num images 3
+[2021.11.08-12.14.09:056][  0]LogVulkanRHI: Creating new VK swapchain with present mode 0, format 44, color space 0, num images 3
+[2021.11.08-12.14.09:200][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.08-12.14.09:200][  0]LogSlate: Slate font cache was flushed
+[2021.11.08-12.14.09:205][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.08-12.14.09:208][  0]LogUObjectArray: 14099 objects as part of root set at end of initial load.
+[2021.11.08-12.14.09:208][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2021.11.08-12.14.09:208][  0]LogUObjectAllocator: 2827288 out of 0 bytes used by permanent object pool.
+[2021.11.08-12.14.09:208][  0]LogUObjectArray: CloseDisregardForGC: 14099/14099 objects in disregard for GC pool
+[2021.11.08-12.14.09:209][  0]LogEngine: Initializing Engine...
+[2021.11.08-12.14.09:209][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.08-12.14.09:210][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.08-12.14.09:276][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.08-12.14.09:277][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.08-12.14.09:277][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.08-12.14.09:277][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.08-12.14.09:277][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.08-12.14.09:277][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.08-12.14.09:277][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.08-12.14.09:277][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.08-12.14.09:277][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.08-12.14.09:277][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.08-12.14.09:277][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.08-12.14.09:281][  0]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2021.11.08-12.14.09:380][  0]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2021.11.08-12.14.09:383][  0]LogAudioMixer: Display: Using Audio Device Default Audio Device
+[2021.11.08-12.14.09:384][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.08-12.14.09:386][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.08-12.14.09:386][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.08-12.14.09:388][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.08-12.14.09:389][  0]LogInit: FAudioDevice initialized.
+[2021.11.08-12.14.09:390][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.08-12.14.09:390][  0]LogInit: Texture streaming: Enabled
+[2021.11.08-12.14.09:394][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.08-12.14.09:396][  0]LogInit: Display: Game Engine Initialized.
+[2021.11.08-12.14.09:396][  0]LogInit: Display: Starting Game.
+[2021.11.08-12.14.09:396][  0]LogNet: Browse: /Game/Maps/Demo/Demo_IAIKitchen?Name=Player
+[2021.11.08-12.14.09:396][  0]LogLoad: LoadMap: /Game/Maps/Demo/Demo_IAIKitchen?Name=Player
+[2021.11.08-12.14.09:396][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2021.11.08-12.14.09:397][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.08-12.14.09:397][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.08-12.14.09:410][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.11.08-12.14.09:442][  0]URoboVisionLog: Display: [ARGBDCamera][97] Loading materials.
+[2021.11.08-12.14.10:079][  0]LogAIModule: Creating AISystem for world Demo_IAIKitchen
+[2021.11.08-12.14.10:079][  0]LogAISub: UAISubsystem EnvQueryManager (0x7f1bd87e9000), frame # 0
+[2021.11.08-12.14.10:079][  0]LogAISub: UAISubsystem AIPerceptionSystem (0x7f1c97c5e480), frame # 0
+[2021.11.08-12.14.10:080][  0]LogLoad: Game class is 'GameMode'
+[2021.11.08-12.14.10:080][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Demo/SL_Demo_Lights) is flushing async loading
+[2021.11.08-12.14.10:088][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Demo/SL_Demo_Items) is flushing async loading
+[2021.11.08-12.14.10:187][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/URoboSim/PR2/SL_Robot) is flushing async loading
+[2021.11.08-12.14.10:235][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Demo/SL_MIlestonge_Items) is flushing async loading
+[2021.11.08-12.14.10:246][  0]LogWorld: Bringing World /Game/Maps/Demo/Demo_IAIKitchen.Demo_IAIKitchen up for play (max tick rate 0) at 2021.11.08-13.14.10
+[2021.11.08-12.14.10:246][  0]LogWorld: Bringing up level for play took: 0.003605
+[2021.11.08-12.14.10:248][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.08-12.14.10:248][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.08-12.14.10:248][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.11.08-12.14.10:248][  0]LogRPluginComponent: Initialize ControllerComponent of Model_2
+[2021.11.08-12.14.10:248][  0]LogRController: Initialize BaseController
+[2021.11.08-12.14.10:248][  0]LogRController: Initialize JointController
+[2021.11.08-12.14.10:250][  0]LogRController: Initialize RGripperController
+[2021.11.08-12.14.10:250][  0]LogRJointController: Error: Enable Drive for r_gripper_r_finger_joint
+[2021.11.08-12.14.10:250][  0]LogRJointController: Error: Enable Drive for r_gripper_l_finger_joint
+[2021.11.08-12.14.10:250][  0]LogRController: Initialize LGripperController
+[2021.11.08-12.14.10:251][  0]LogRJointController: Error: Enable Drive for l_gripper_r_finger_joint
+[2021.11.08-12.14.10:251][  0]LogRJointController: Error: Enable Drive for l_gripper_l_finger_joint
+[2021.11.08-12.14.10:251][  0]LogRController: Initialize CameraController
+[2021.11.08-12.14.10:251][  0]LogTemp: Error: Camera RGBDCamera1 not found
+[2021.11.08-12.14.10:251][  0]LogRController: Initialize RPR2HeadTrajectoryController_0
+[2021.11.08-12.14.10:251][  0]LogRPluginComponent: Initialize ROSCommunicationComponent of Model_2
+[2021.11.08-12.14.10:251][  0]LogRROSCommunication: ROdomPublisher_1 is connected to ROSBridge
+[2021.11.08-12.14.10:251][  0]LogRROSCommunication: RJointStatePublisher_1 is connected to ROSBridge
+[2021.11.08-12.14.10:252][  0]LogRROSCommunication: R2DLidarPublisher_1 is connected to ROSBridge
+[2021.11.08-12.14.10:252][  0]LogRROSCommunication: RJointTrajectoryControllerStatePublisher_1 is connected to ROSBridge
+[2021.11.08-12.14.10:252][  0]LogTemp: Error: Configure JointControllerStatePublisher publisher
+[2021.11.08-12.14.10:252][  0]LogRROSCommunication: RVelocityCommandSubscriber_1 is connected to ROSBridge
+[2021.11.08-12.14.10:253][  0]LogRROSCommunication: RJointControllerConfigurationClient_1 is connected to ROSBridge
+[2021.11.08-12.14.10:254][  0]LogRROSCommunication: RFJTAServer_1 is connected to ROSBridge
+[2021.11.08-12.14.10:254][  0]LogRActionServer: Initialize RFJTAGoalSubscriber_2147482527 of RFJTAServer_1
+[2021.11.08-12.14.10:254][  0]LogRActionServer: Initialize RFJTACancelSubscriber_2147482530 of RFJTAServer_1
+[2021.11.08-12.14.10:254][  0]LogRActionServer: Initialize RFJTAStatusPublisher_2147482529 of RFJTAServer_1
+[2021.11.08-12.14.10:254][  0]LogRActionServer: Initialize RFJTAFeedbackPublisher_2147482526 of RFJTAServer_1
+[2021.11.08-12.14.10:254][  0]LogRActionServer: Initialize RFJTAResultPublisher_2147482528 of RFJTAServer_1
+[2021.11.08-12.14.10:254][  0]LogTemp: Error: Result is bound
+[2021.11.08-12.14.10:254][  0]LogRROSCommunication: RPR2GCAServer_2 is connected to ROSBridge
+[2021.11.08-12.14.10:254][  0]LogRActionServer: Initialize RPR2GCAGoalSubscriber_2147482522 of RPR2GCAServer_2
+[2021.11.08-12.14.10:254][  0]LogRPR2GCAGoalSubscriber: Warning: RGripperController
+[2021.11.08-12.14.10:254][  0]LogRPR2GCAGoalSubscriber: Subscriber connected to RosBridge
+[2021.11.08-12.14.10:254][  0]LogRActionServer: Initialize RPR2GCACancelSubscriber_2147482525 of RPR2GCAServer_2
+[2021.11.08-12.14.10:254][  0]LogRActionServer: Initialize RPR2GCAStatusPublisher_2147482524 of RPR2GCAServer_2
+[2021.11.08-12.14.10:254][  0]LogRActionServer: Initialize RPR2GCAFeedbackPublisher_2147482521 of RPR2GCAServer_2
+[2021.11.08-12.14.10:254][  0]LogRActionServer: Initialize RPR2GCAResultPublisher_2147482523 of RPR2GCAServer_2
+[2021.11.08-12.14.10:254][  0]LogRROSCommunication: RPR2GCAServer_3 is connected to ROSBridge
+[2021.11.08-12.14.10:254][  0]LogRActionServer: Initialize RPR2GCAGoalSubscriber_2147482517 of RPR2GCAServer_3
+[2021.11.08-12.14.10:254][  0]LogRPR2GCAGoalSubscriber: Warning: LGripperController
+[2021.11.08-12.14.10:254][  0]LogRPR2GCAGoalSubscriber: Subscriber connected to RosBridge
+[2021.11.08-12.14.10:254][  0]LogRActionServer: Initialize RPR2GCACancelSubscriber_2147482520 of RPR2GCAServer_3
+[2021.11.08-12.14.10:254][  0]LogRActionServer: Initialize RPR2GCAStatusPublisher_2147482519 of RPR2GCAServer_3
+[2021.11.08-12.14.10:254][  0]LogRActionServer: Initialize RPR2GCAFeedbackPublisher_2147482516 of RPR2GCAServer_3
+[2021.11.08-12.14.10:254][  0]LogRActionServer: Initialize RPR2GCAResultPublisher_2147482518 of RPR2GCAServer_3
+[2021.11.08-12.14.10:255][  0]LogRROSCommunication: RPR2HAServer_1 is connected to ROSBridge
+[2021.11.08-12.14.10:255][  0]LogRActionServer: Initialize RPR2HAGoalSubscriber_2147482512 of RPR2HAServer_1
+[2021.11.08-12.14.10:255][  0]LogRPR2HAGoalSubscriber: Subscriber connected to RosBridge
+[2021.11.08-12.14.10:255][  0]LogRActionServer: Initialize RPR2HACancelSubscriber_2147482515 of RPR2HAServer_1
+[2021.11.08-12.14.10:255][  0]LogRActionServer: Initialize RPR2HAStatusPublisher_2147482514 of RPR2HAServer_1
+[2021.11.08-12.14.10:255][  0]LogRActionServer: Initialize RPR2HAFeedbackPublisher_2147482511 of RPR2HAServer_1
+[2021.11.08-12.14.10:255][  0]LogRActionServer: Initialize RPR2HAResultPublisher_2147482513 of RPR2HAServer_1
+[2021.11.08-12.14.10:258][  0]LogRROSCommunication: RPOAServer_1 is connected to ROSBridge
+[2021.11.08-12.14.10:258][  0]LogRActionServer: Initialize RPOAGoalSubscriber_2147482507 of RPOAServer_1
+[2021.11.08-12.14.10:258][  0]LogRPOAGoalSubscriber: Subscriber connected to RosBridge
+[2021.11.08-12.14.10:258][  0]LogRActionServer: Initialize RPOACancelSubscriber_2147482510 of RPOAServer_1
+[2021.11.08-12.14.10:258][  0]LogRActionServer: Initialize RPOAStatusPublisher_2147482509 of RPOAServer_1
+[2021.11.08-12.14.10:258][  0]LogRActionServer: Initialize RPOAFeedbackPublisher_2147482506 of RPOAServer_1
+[2021.11.08-12.14.10:258][  0]LogRActionServer: Initialize RPOAResultPublisher_2147482508 of RPOAServer_1
+[2021.11.08-12.14.10:258][  0]LogRPOAResultPublisher: Warning: Bind TFPublisher
+[2021.11.08-12.14.10:260][  0]URoboVisionLog: Display: [BeginPlay][124] Begin play!
+[2021.11.08-12.14.10:264][  0]URoboVisionLog: Display: [Start][21] Starting server.
+[2021.11.08-12.14.10:265][  0]URoboVisionLog: Display: [Start][45] Server address: 0.0.0.0:10000
+[2021.11.08-12.14.10:265][  0]URoboVisionLog: Display: [Start][58] Socket created
+[2021.11.08-12.14.10:269][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.11.08-12.14.10:269][  0]LogLoad: Took 0.873241 seconds to LoadMap(/Game/Maps/Demo/Demo_IAIKitchen)
+[2021.11.08-12.14.10:269][  0]LogROS: Connecting to 192.168.101.48:9090 via GameInstance
+[2021.11.08-12.14.10:320][  0]LogROS: [OnConnection] Websocket server connected.
+[2021.11.08-12.14.10:320][  0]LogROS: [Run] Subscribing Topic /perceive_object/cancel
+[2021.11.08-12.14.10:320][  0]LogROS: [Run] Subscribing Topic /perceive_object/goal
+[2021.11.08-12.14.10:320][  0]LogROS: [Run] Advertising Topic /perceive_object/result
+[2021.11.08-12.14.10:320][  0]LogROS: [Run] Advertising Topic /perceive_object/feedback
+[2021.11.08-12.14.10:320][  0]LogROS: [Run] Advertising Topic /perceive_object/status
+[2021.11.08-12.14.10:320][  0]LogROS: [OnConnection] Websocket server connected.
+[2021.11.08-12.14.10:320][  0]LogROS: [Run] Advertising Topic tf
+[2021.11.08-12.14.10:322][  0]LogROS: [OnConnection] Websocket server connected.
+[2021.11.08-12.14.10:322][  0]LogROS: [Run] Advertising Service [UnrealSim/object_to_object_state] of type [world_control_msgs/ObjectToObjectState]
+[2021.11.08-12.14.10:322][  0]LogROS: [Run] Advertising Service [UnrealSim/delete_all] of type [world_control_msgs/DeleteAll]
+[2021.11.08-12.14.10:322][  0]LogROS: [Run] Advertising Service [UnrealSim/spawn_pro_mesh] of type [world_control_msgs/SpawnProMesh]
+[2021.11.08-12.14.10:322][  0]LogROS: [Run] Advertising Service [UnrealSim/spawn_semantic_map] of type [world_control_msgs/SpawnSemanticMap]
+[2021.11.08-12.14.10:322][  0]LogROS: [Run] Advertising Service [UnrealSim/change_material] of type [world_control_msgs/SetMaterial]
+[2021.11.08-12.14.10:322][  0]LogROS: [Run] Advertising Service [UnrealSim/set_physics_properties] of type [world_control_msgs/SetPhysicsProperties]
+[2021.11.08-12.14.10:322][  0]LogROS: [Run] Advertising Service [UnrealSim/highlight_models] of type [world_control_msgs/HighlightModel]
+[2021.11.08-12.14.10:322][  0]LogROS: [Run] Advertising Service [UnrealSim/spawn_physics_constraint] of type [world_control_msgs/SpawnPhysicsConstraint]
+[2021.11.08-12.14.10:322][  0]LogROS: [Run] Advertising Service [UnrealSim/attach_model_to_parent] of type [world_control_msgs/AttachModelToParent]
+[2021.11.08-12.14.10:322][  0]LogROS: [Run] Advertising Service [UnrealSim/delete_model] of type [world_control_msgs/DeleteModel]
+[2021.11.08-12.14.10:322][  0]LogROS: [Run] Advertising Service [UnrealSim/get_model_socket_pose] of type [world_control_msgs/GetModelSocketPose]
+[2021.11.08-12.14.10:322][  0]LogROS: [Run] Advertising Service [UnrealSim/get_model_pose] of type [world_control_msgs/GetModelPose]
+[2021.11.08-12.14.10:322][  0]LogROS: [Run] Advertising Service [UnrealSim/set_model_pose] of type [world_control_msgs/SetModelPose]
+[2021.11.08-12.14.10:322][  0]LogROS: [Run] Advertising Service [UnrealSim/spawn_model] of type [world_control_msgs/SpawnModel]
+[2021.11.08-12.14.10:322][  0]LogROS: [Run] Advertising Service [UnrealSim/reset_level] of type [world_control_msgs/ResetLevel]
+[2021.11.08-12.14.10:325][  0]LogROS: [OnConnection] Websocket server connected.
+[2021.11.08-12.14.10:325][  0]LogROS: [Run] Advertising Topic /tf
+[2021.11.08-12.14.10:325][  0]LogROS: [OnConnection] Websocket server connected.
+[2021.11.08-12.14.10:325][  0]LogROS: [Run] Advertising Topic /joint_states
+[2021.11.08-12.14.10:325][  0]LogROS: [OnConnection] Websocket server connected.
+[2021.11.08-12.14.10:325][  0]LogROS: [Run] Advertising Topic /base_scan
+[2021.11.08-12.14.10:325][  0]LogROS: [OnConnection] Websocket server connected.
+[2021.11.08-12.14.10:325][  0]LogROS: [Run] Advertising Topic /whole_body_controller/body/state
+[2021.11.08-12.14.10:325][  0]LogROS: [OnConnection] Websocket server connected.
+[2021.11.08-12.14.10:325][  0]LogROS: [Run] Subscribing Topic /base_controller/command
+[2021.11.08-12.14.10:325][  0]LogROS: [OnConnection] Websocket server connected.
+[2021.11.08-12.14.10:325][  0]LogROS: [OnConnection] Websocket server connected.
+[2021.11.08-12.14.10:325][  0]LogROS: [Run] Subscribing Topic /whole_body_controller/body/follow_joint_trajectory/cancel
+[2021.11.08-12.14.10:325][  0]LogROS: [Run] Subscribing Topic /whole_body_controller/body/follow_joint_trajectory/goal
+[2021.11.08-12.14.10:325][  0]LogROS: [Run] Advertising Topic /whole_body_controller/body/follow_joint_trajectory/result
+[2021.11.08-12.14.10:325][  0]LogROS: [Run] Advertising Topic /whole_body_controller/body/follow_joint_trajectory/feedback
+[2021.11.08-12.14.10:325][  0]LogROS: [Run] Advertising Topic /whole_body_controller/body/follow_joint_trajectory/status
+[2021.11.08-12.14.10:327][  0]LogROS: [OnConnection] Websocket server connected.
+[2021.11.08-12.14.10:327][  0]LogROS: [Run] Subscribing Topic r_gripper_controller/gripper_action/cancel
+[2021.11.08-12.14.10:327][  0]LogROS: [Run] Subscribing Topic r_gripper_controller/gripper_action/goal
+[2021.11.08-12.14.10:327][  0]LogROS: [Run] Advertising Topic r_gripper_controller/gripper_action/result
+[2021.11.08-12.14.10:327][  0]LogROS: [Run] Advertising Topic r_gripper_controller/gripper_action/feedback
+[2021.11.08-12.14.10:327][  0]LogROS: [Run] Advertising Topic r_gripper_controller/gripper_action/status
+[2021.11.08-12.14.10:327][  0]LogROS: [OnConnection] Websocket server connected.
+[2021.11.08-12.14.10:327][  0]LogROS: [Run] Subscribing Topic l_gripper_controller/gripper_action/cancel
+[2021.11.08-12.14.10:327][  0]LogROS: [Run] Subscribing Topic l_gripper_controller/gripper_action/goal
+[2021.11.08-12.14.10:327][  0]LogROS: [Run] Advertising Topic l_gripper_controller/gripper_action/result
+[2021.11.08-12.14.10:327][  0]LogROS: [Run] Advertising Topic l_gripper_controller/gripper_action/feedback
+[2021.11.08-12.14.10:327][  0]LogROS: [Run] Advertising Topic l_gripper_controller/gripper_action/status
+[2021.11.08-12.14.10:327][  0]LogROS: [OnConnection] Websocket server connected.
+[2021.11.08-12.14.10:327][  0]LogROS: [Run] Subscribing Topic /head_traj_controller/point_head_action/cancel
+[2021.11.08-12.14.10:327][  0]LogROS: [Run] Subscribing Topic /head_traj_controller/point_head_action/goal
+[2021.11.08-12.14.10:327][  0]LogROS: [Run] Advertising Topic /head_traj_controller/point_head_action/result
+[2021.11.08-12.14.10:327][  0]LogROS: [Run] Advertising Topic /head_traj_controller/point_head_action/feedback
+[2021.11.08-12.14.10:327][  0]LogROS: [Run] Advertising Topic /head_traj_controller/point_head_action/status
+[2021.11.08-12.14.10:643][  0]LogRenderer: Reallocating scene render targets to support 1920x1200 Format 10 NumSamples 1 (Frame:1).
+[2021.11.08-12.14.10:643][  0]LogLoad: (Engine Initialization) Total time: 3.20 seconds
+[2021.11.08-12.14.10:797][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.08-12.14.10:805][  1]LogRenderer: Reallocating scene render targets to support 1024x1024 Format 10 NumSamples 1 (Frame:1).
+[2021.11.08-12.14.10:917][  2]LogRenderer: Reallocating scene render targets to support 1920x1200 Format 10 NumSamples 1 (Frame:2).
+[2021.11.08-12.14.11:783][ 30]LogTemp: Error: send request param server
+[2021.11.08-12.14.11:783][ 30]LogTemp: Error: send request param server
+[2021.11.08-12.14.11:783][ 30]LogTemp: Error: send request param server
+[2021.11.08-12.14.11:784][ 30]LogTemp: Error: send request param server
+[2021.11.08-12.14.11:805][ 31]LogRModel: Error: null not found in Model_2
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: fl_caster_rotation_joint: Lower  Upper: 
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: fl_caster_l_wheel_joint: Lower  Upper: 
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: fl_caster_r_wheel_joint: Lower  Upper: 
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: fr_caster_rotation_joint: Lower  Upper: 
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: fr_caster_l_wheel_joint: Lower  Upper: 
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: fr_caster_r_wheel_joint: Lower  Upper: 
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: bl_caster_rotation_joint: Lower  Upper: 
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: bl_caster_l_wheel_joint: Lower  Upper: 
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: bl_caster_r_wheel_joint: Lower  Upper: 
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: br_caster_rotation_joint: Lower  Upper: 
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: br_caster_l_wheel_joint: Lower  Upper: 
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: br_caster_r_wheel_joint: Lower  Upper: 
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: torso_lift_joint: Lower 0.0115 Upper: 0.325
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: head_pan_joint: Lower -2.857 Upper: 2.857
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: head_tilt_joint: Lower -0.3712 Upper: 1.29626
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: laser_tilt_mount_joint: Lower -0.7354 Upper: 1.43353
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: r_shoulder_pan_joint: Lower -2.1353981634 Upper: 0.564601836603
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: r_shoulder_lift_joint: Lower -0.3536 Upper: 1.2963
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: r_upper_arm_roll_joint: Lower -3.75 Upper: 0.65
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: r_forearm_roll_joint: Lower  Upper: 
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: r_elbow_flex_joint: Lower -2.1213 Upper: -0.15
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: r_wrist_flex_joint: Lower -2 Upper: -0.1
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: r_wrist_roll_joint: Lower  Upper: 
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: r_gripper_joint: Lower -0.01 Upper: 0.088
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: l_shoulder_pan_joint: Lower -0.564601836603 Upper: 2.1353981634
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: l_shoulder_lift_joint: Lower -0.3536 Upper: 1.2963
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: l_upper_arm_roll_joint: Lower -0.65 Upper: 3.75
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: l_forearm_roll_joint: Lower  Upper: 
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: l_elbow_flex_joint: Lower -2.1213 Upper: -0.15
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: l_wrist_flex_joint: Lower -2 Upper: -0.1
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: l_wrist_roll_joint: Lower  Upper: 
+[2021.11.08-12.14.12:237][ 47]LogRJointControllerConfigurationClient: l_gripper_joint: Lower -0.01 Upper: 0.088
+[2021.11.08-12.14.14:394][121]LogSlate: Request Window 'DemoProject (64-bit Development SF_VULKAN_SM5) ' being destroyed
+[2021.11.08-12.14.14:439][121]LogSlate: Window 'DemoProject (64-bit Development SF_VULKAN_SM5) ' being destroyed
+[2021.11.08-12.14.14:623][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.08-12.14.14:623][121]LogEngine: All Windows Closed
+[2021.11.08-12.14.14:623][121]LogCore: FUnixPlatformMisc::RequestExit(0)
+[2021.11.08-12.14.14:623][121]LogGenericPlatformMisc: FPlatformMisc::RequestExit(0)
+[2021.11.08-12.14.14:623][121]LogCore: Engine exit requested (reason: GenericPlatform RequestExit)
+[2021.11.08-12.14.14:623][122]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.11.08-12.14.14:624][122]LogAudio: Display: Shutting down audio device while 2 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2021.11.08-12.14.14:649][122]LogInit: Display: PreExit Game.
+[2021.11.08-12.14.14:660][122]LogWorld: BeginTearingDown for /Game/Maps/Demo/Demo_IAIKitchen
+[2021.11.08-12.14.14:661][122]LogRROSCommunicationComponent: Deinitilize ROSCommunication
+[2021.11.08-12.14.14:661][122]LogROS: [Disconnect] Unadvertising Topic /tf
+[2021.11.08-12.14.14:664][122]LogROS: [Disconnect] Unadvertising Topic /joint_states
+[2021.11.08-12.14.14:665][122]LogROS: [Disconnect] Unadvertising Topic /base_scan
+[2021.11.08-12.14.14:675][122]LogROS: [Disconnect] Unadvertising Topic /whole_body_controller/body/state
+[2021.11.08-12.14.14:686][122]LogROS: [Disconnect] Unsubscribing Topic /base_controller/command
+[2021.11.08-12.14.14:693][122]LogROS: [Disconnect] Unsubscribing Topic /whole_body_controller/body/follow_joint_trajectory/cancel
+[2021.11.08-12.14.14:693][122]LogROS: [Disconnect] Unsubscribing Topic /whole_body_controller/body/follow_joint_trajectory/goal
+[2021.11.08-12.14.14:693][122]LogROS: [Disconnect] Unadvertising Topic /whole_body_controller/body/follow_joint_trajectory/result
+[2021.11.08-12.14.14:693][122]LogROS: [Disconnect] Unadvertising Topic /whole_body_controller/body/follow_joint_trajectory/feedback
+[2021.11.08-12.14.14:694][122]LogROS: [Disconnect] Unadvertising Topic /whole_body_controller/body/follow_joint_trajectory/status
+[2021.11.08-12.14.14:696][122]LogROS: [Disconnect] Unsubscribing Topic r_gripper_controller/gripper_action/cancel
+[2021.11.08-12.14.14:696][122]LogROS: [Disconnect] Unsubscribing Topic r_gripper_controller/gripper_action/goal
+[2021.11.08-12.14.14:696][122]LogROS: [Disconnect] Unadvertising Topic r_gripper_controller/gripper_action/result
+[2021.11.08-12.14.14:696][122]LogROS: [Disconnect] Unadvertising Topic r_gripper_controller/gripper_action/feedback
+[2021.11.08-12.14.14:696][122]LogROS: [Disconnect] Unadvertising Topic r_gripper_controller/gripper_action/status
+[2021.11.08-12.14.14:706][122]LogROS: [Disconnect] Unsubscribing Topic l_gripper_controller/gripper_action/cancel
+[2021.11.08-12.14.14:706][122]LogROS: [Disconnect] Unsubscribing Topic l_gripper_controller/gripper_action/goal
+[2021.11.08-12.14.14:706][122]LogROS: [Disconnect] Unadvertising Topic l_gripper_controller/gripper_action/result
+[2021.11.08-12.14.14:706][122]LogROS: [Disconnect] Unadvertising Topic l_gripper_controller/gripper_action/feedback
+[2021.11.08-12.14.14:706][122]LogROS: [Disconnect] Unadvertising Topic l_gripper_controller/gripper_action/status
+[2021.11.08-12.14.14:716][122]LogROS: [Disconnect] Unsubscribing Topic /head_traj_controller/point_head_action/cancel
+[2021.11.08-12.14.14:716][122]LogROS: [Disconnect] Unsubscribing Topic /head_traj_controller/point_head_action/goal
+[2021.11.08-12.14.14:716][122]LogROS: [Disconnect] Unadvertising Topic /head_traj_controller/point_head_action/result
+[2021.11.08-12.14.14:716][122]LogROS: [Disconnect] Unadvertising Topic /head_traj_controller/point_head_action/feedback
+[2021.11.08-12.14.14:716][122]LogROS: [Disconnect] Unadvertising Topic /head_traj_controller/point_head_action/status
+[2021.11.08-12.14.14:726][122]LogROS: [Disconnect] Unsubscribing Topic /perceive_object/cancel
+[2021.11.08-12.14.14:726][122]LogROS: [Disconnect] Unsubscribing Topic /perceive_object/goal
+[2021.11.08-12.14.14:726][122]LogROS: [Disconnect] Unadvertising Topic /perceive_object/result
+[2021.11.08-12.14.14:726][122]LogROS: [Disconnect] Unadvertising Topic /perceive_object/feedback
+[2021.11.08-12.14.14:726][122]LogROS: [Disconnect] Unadvertising Topic /perceive_object/status
+[2021.11.08-12.14.14:732][122]LogROS: [Disconnect] Unadvertising Topic tf
+[2021.11.08-12.14.14:742][122]URoboVisionLog: Display: [EndPlay][210] End play!
+[2021.11.08-12.14.14:746][122]URoboVisionLog: Display: [Stop][92] Server stopped.
+[2021.11.08-12.14.14:746][122]LogROS: [Disconnect] Unadvertising Service [UnrealSim/object_to_object_state]
+[2021.11.08-12.14.14:746][122]LogROS: [Disconnect] Unadvertising Service [UnrealSim/delete_all]
+[2021.11.08-12.14.14:746][122]LogROS: [Disconnect] Unadvertising Service [UnrealSim/spawn_pro_mesh]
+[2021.11.08-12.14.14:746][122]LogROS: [Disconnect] Unadvertising Service [UnrealSim/spawn_semantic_map]
+[2021.11.08-12.14.14:746][122]LogROS: [Disconnect] Unadvertising Service [UnrealSim/change_material]
+[2021.11.08-12.14.14:746][122]LogROS: [Disconnect] Unadvertising Service [UnrealSim/set_physics_properties]
+[2021.11.08-12.14.14:746][122]LogROS: [Disconnect] Unadvertising Service [UnrealSim/highlight_models]
+[2021.11.08-12.14.14:746][122]LogROS: [Disconnect] Unadvertising Service [UnrealSim/spawn_physics_constraint]
+[2021.11.08-12.14.14:746][122]LogROS: [Disconnect] Unadvertising Service [UnrealSim/attach_model_to_parent]
+[2021.11.08-12.14.14:746][122]LogROS: [Disconnect] Unadvertising Service [UnrealSim/delete_model]
+[2021.11.08-12.14.14:746][122]LogROS: [Disconnect] Unadvertising Service [UnrealSim/get_model_socket_pose]
+[2021.11.08-12.14.14:746][122]LogROS: [Disconnect] Unadvertising Service [UnrealSim/get_model_pose]
+[2021.11.08-12.14.14:746][122]LogROS: [Disconnect] Unadvertising Service [UnrealSim/set_model_pose]
+[2021.11.08-12.14.14:746][122]LogROS: [Disconnect] Unadvertising Service [UnrealSim/spawn_model]
+[2021.11.08-12.14.14:746][122]LogROS: [Disconnect] Unadvertising Service [UnrealSim/reset_level]
+[2021.11.08-12.14.14:752][122]LogWorld: UWorld::CleanupWorld for Demo_IAIKitchen, bSessionEnded=true, bCleanupResources=true
+[2021.11.08-12.14.14:756][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.08-12.14.14:756][122]LogWorld: UWorld::CleanupWorld for SL_Demo_Lights, bSessionEnded=true, bCleanupResources=true
+[2021.11.08-12.14.14:756][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.08-12.14.14:756][122]LogWorld: UWorld::CleanupWorld for SL_Demo_Items, bSessionEnded=true, bCleanupResources=true
+[2021.11.08-12.14.14:756][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.08-12.14.14:756][122]LogWorld: UWorld::CleanupWorld for SL_Robot, bSessionEnded=true, bCleanupResources=true
+[2021.11.08-12.14.14:756][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.08-12.14.14:756][122]LogWorld: UWorld::CleanupWorld for SL_MIlestonge_Items, bSessionEnded=true, bCleanupResources=true
+[2021.11.08-12.14.14:756][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.08-12.14.14:757][122]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.11.08-12.14.14:757][122]LogExit: Preparing to exit.
+[2021.11.08-12.14.14:757][122]LogMoviePlayer: Shutting down movie player
+[2021.11.08-12.14.14:759][122]LogUObjectBase: Warning: NULL object
+[2021.11.08-12.14.14:761][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.08-12.14.14:765][122]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.11.08-12.14.14:766][122]LogExit: Game engine shut down
+[2021.11.08-12.14.14:772][122]URoboVisionLog: Display: [~ARGBDCamera][117] RGBDCamera got destroyed!
+[2021.11.08-12.14.14:773][122]LogAISub: ~UAISubsystem AISubsystem (0x7f1c58dd68c0), frame # 122
+[2021.11.08-12.14.14:774][122]LogAISub: ~UAISubsystem AIPerceptionSystem (0x7f1c58c94e80), frame # 122
+[2021.11.08-12.14.14:774][122]LogAISub: ~UAISubsystem EnvQueryManager (0x7f1c593f1200), frame # 122
+[2021.11.08-12.14.14:776][122]URoboVisionLog: Display: [~ARGBDCamera][117] RGBDCamera got destroyed!
+[2021.11.08-12.14.14:781][122]LogAISub: ~UAISubsystem EnvQueryManager (0x7f1bd87e9000), frame # 122
+[2021.11.08-12.14.14:781][122]LogAISub: ~UAISubsystem AIPerceptionSystem (0x7f1c97c5e480), frame # 122
+[2021.11.08-12.14.14:791][122]LogExit: Object subsystem successfully closed.
+[2021.11.08-12.14.14:794][122]LogModuleManager: Shutting down and abandoning module AutomationController (274)
+[2021.11.08-12.14.14:794][122]LogModuleManager: Shutting down and abandoning module AutomationWorker (272)
+[2021.11.08-12.14.14:794][122]LogModuleManager: Shutting down and abandoning module Voice (270)
+[2021.11.08-12.14.14:794][122]LogModuleManager: Shutting down and abandoning module AIModule (268)
+[2021.11.08-12.14.14:794][122]LogModuleManager: Shutting down and abandoning module GameplayDebugger (267)
+[2021.11.08-12.14.14:794][122]LogModuleManager: Shutting down and abandoning module NavigationSystem (265)
+[2021.11.08-12.14.14:794][122]LogModuleManager: Shutting down and abandoning module CharacterAI (262)
+[2021.11.08-12.14.14:794][122]LogModuleManager: Shutting down and abandoning module PlanarCut (260)
+[2021.11.08-12.14.14:794][122]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (258)
+[2021.11.08-12.14.14:794][122]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (256)
+[2021.11.08-12.14.14:794][122]LogModuleManager: Shutting down and abandoning module WebMMedia (254)
+[2021.11.08-12.14.14:794][122]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (252)
+[2021.11.08-12.14.14:794][122]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (250)
+[2021.11.08-12.14.14:794][122]LogModuleManager: Shutting down and abandoning module SessionServices (248)
+[2021.11.08-12.14.14:794][122]LogModuleManager: Shutting down and abandoning module LevelSequence (246)
+[2021.11.08-12.14.14:794][122]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (244)
+[2021.11.08-12.14.14:794][122]LogModuleManager: Shutting down and abandoning module MovieScene (242)
+[2021.11.08-12.14.14:794][122]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (240)
+[2021.11.08-12.14.14:794][122]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (238)
+[2021.11.08-12.14.14:794][122]LogModuleManager: Shutting down and abandoning module ProfilerService (236)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module TaskGraph (234)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module UROSBridge (232)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module URoboSim (230)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module UTFPublisher (228)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module URoboVision (226)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module UConversions (224)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module UIds (222)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module UTags (220)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module UCheckpointSystem (218)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module UWorldControl (216)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module UROSControl (214)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module TemplateSequence (212)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (210)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module MeshConversion (208)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module DynamicMesh (206)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (204)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module GeometricObjects (202)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module ChaosCloth (200)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module AutomationUtils (198)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (196)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (194)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module GeometryCache (192)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module BackChannel (190)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module ChaosNiagara (188)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module UObjectPlugin (186)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module MediaCompositing (184)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module ImgMedia (182)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module AssetTags (180)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module CableComponent (178)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (176)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (174)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (172)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module EditableMesh (170)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (168)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module AppleImageUtils (166)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module Synthesis (164)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module AndroidPermission (162)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module AudioCapture (160)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module GooglePAD (158)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (156)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module Niagara (154)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module NiagaraCore (152)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module ActorSequence (150)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module TcpMessaging (148)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module UdpMessaging (146)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module FacialAnimation (144)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module AnimationSharing (142)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (140)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module SoundFields (138)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module SignificanceManager (136)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (134)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (132)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module Paper2D (128)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (126)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (124)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module PacketHandler (122)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (120)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module MediaAssets (118)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module Overlay (116)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module FunctionalTesting (114)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module MessageLog (112)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module UMG (110)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module SlateReflector (108)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module Slate (106)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module SlateCore (104)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module MRMesh (102)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module Messaging (100)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (98)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module AudioMixerSDL (96)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module AudioMixerCore (95)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module SignalProcessing (94)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module Networking (90)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module Core (88)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module Media (86)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module ImageWrapper (82)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module VulkanRHI (80)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module InputCore (78)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module Settings (76)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module ChaosSolvers (72)
+[2021.11.08-12.14.14:985][122]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (71)
+[2021.11.08-12.14.14:986][122]LogModuleManager: Shutting down and abandoning module Chaos (68)
+[2021.11.08-12.14.14:986][122]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (66)
+[2021.11.08-12.14.14:986][122]LogModuleManager: Shutting down and abandoning module NiagaraShader (64)
+[2021.11.08-12.14.14:986][122]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (62)
+[2021.11.08-12.14.14:986][122]LogModuleManager: Shutting down and abandoning module AISupportModule (60)
+[2021.11.08-12.14.14:986][122]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (58)
+[2021.11.08-12.14.14:986][122]LogModuleManager: Shutting down and abandoning module LinuxDeviceProfileSelector (56)
+[2021.11.08-12.14.14:986][122]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (54)
+[2021.11.08-12.14.14:986][122]LogModuleManager: Shutting down and abandoning module SteamVRInput (52)
+[2021.11.08-12.14.14:986][122]LogModuleManager: Shutting down and abandoning module SteamVR (50)
+[2021.11.08-12.14.14:986][122]LogHMD: Freeing OpenVRDLLHandle.
+[2021.11.08-12.14.14:986][122]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (48)
+[2021.11.08-12.14.14:986][122]LogModuleManager: Shutting down and abandoning module HTTP (43)
+[2021.11.08-12.14.15:016][122]LogModuleManager: Shutting down and abandoning module SSL (42)
+[2021.11.08-12.14.15:016][122]LogModuleManager: Shutting down and abandoning module DatasmithContent (36)
+[2021.11.08-12.14.15:016][122]LogModuleManager: Shutting down and abandoning module VariantManagerContent (34)
+[2021.11.08-12.14.15:016][122]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (32)
+[2021.11.08-12.14.15:016][122]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (30)
+[2021.11.08-12.14.15:016][122]LogModuleManager: Shutting down and abandoning module PlatformCrypto (28)
+[2021.11.08-12.14.15:016][122]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2021.11.08-12.14.15:016][122]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2021.11.08-12.14.15:016][122]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2021.11.08-12.14.15:025][122]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.11.08-12.14.15:025][122]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.11.08-12.14.15:025][122]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.11.08-12.14.15:025][122]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.11.08-12.14.15:025][122]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.11.08-12.14.15:025][122]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.11.08-12.14.15:025][122]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.11.08-12.14.15:025][122]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.11.08-12.14.15:025][122]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.11.08-12.14.15:025][122]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.11.08-12.14.15:025][122]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.11.08-12.14.15:282][122]LogExit: Exiting.
+[2021.11.08-12.14.15:282][122]LogInit: Tearing down SDL.
+[2021.11.08-12.14.15:291][122]Log file closed, 11/08/21 13:14:15
